@@ -1,2 +1,1 @@
-# groovymodeon.github.io
- HI this is a newbie coder 
+Hi this is a newbie coder. I am new to github  
